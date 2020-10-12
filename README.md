@@ -1,6 +1,6 @@
 #  DJ ENDURE
-## an Iphone app that motivates you to reach your running pace goals with Spotify playback. 
-<img src="./Screenshots/app.png">
+### an Iphone app that motivates you to reach your running pace goals with Spotify playback
+<img src="./Screenshots/app.png" width=200>
 
 ## about
 Maintaining your goal pace while running is difficult. Sometimes you do not even realize if you are slowing down. One motivation to prevent this is the threat of your music stopping. DJ Endure hooks up to your Spotify app and pauses your music if you are below your goal pace for too long. Set the threshold for your goal pace, as well as a warning threshold that will trigger a phone vibrate to warn you that you are at risk of falling behind. DJ Endure opens up Spotify and starts or continues your music every time you open the app. Just disable the app when you don't want your music controlled anymore.
