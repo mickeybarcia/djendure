@@ -133,6 +133,7 @@
 		943C6B3B24EAD0A30045639F /* djendure-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "djendure-Bridging-Header.h"; sourceTree = "<group>"; };
 		943C6B3C24EAD0A30045639F /* djendure-Bridging-Header.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "djendure-Bridging-Header.m"; sourceTree = "<group>"; };
 		9445E47B25057CB600827E93 /* PaceTally.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaceTally.swift; sourceTree = "<group>"; };
+		945EC51C253514A900558B6B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9486FB1A24ECA9A000F46906 /* UnitConverterPace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitConverterPace.swift; sourceTree = "<group>"; };
 		949F2DE32524CEE800C4BC34 /* PaceViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaceViewModelTests.swift; sourceTree = "<group>"; };
 		949F2DE72524D39200C4BC34 /* LocationServiceTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationServiceTests.swift; sourceTree = "<group>"; };
@@ -194,6 +195,7 @@
 		943C6ACA24EABAD60045639F = {
 			isa = PBXGroup;
 			children = (
+				945EC51C253514A900558B6B /* README.md */,
 				94C4DF7D2534B7070002A284 /* Screenshots */,
 				943C6B3924EACDFB0045639F /* Frameworks */,
 				943C6AD524EABAD60045639F /* djendure */,
